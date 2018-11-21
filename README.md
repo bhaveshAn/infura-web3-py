@@ -23,7 +23,7 @@ virtualenv venv
 source venv/bin/activate
 ```
 
-2. Installing the dependencies
+3. Installing the dependencies
 
 ```
 pip install -r requirements.txt
